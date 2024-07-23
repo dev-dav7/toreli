@@ -1,0 +1,20 @@
+:root {
+    --color-hello-0: #0b0c10;
+    --color-hello-1: #1f2833;
+    --color-hello-2: #c5c6c7;
+    --color-hello-3: #66fcf1;
+    --color-hello-4: #45a29e;
+
+    /*dot pixel https://color.hailpixel.com/*/
+    --color-dot-white: #ecf5e0;
+    --color-dot-accent-white: #e1cec7;
+    --color-dot-accent-white-2: #e0e9d2;
+    --color-dot-accent-white-old: #e9f2d9;
+    --color-dot-accent: #797ed3;
+    --color-dot-neg: #e0b1a3;
+    --color-dot-neu: #d5d788;
+    --color-dot-pos: #75b03b;
+    --color-dot-dark1: #112e32;
+    --color-dot-dark2: #113e32;
+    --color-dot-red: #822b35;
+}
